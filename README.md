@@ -49,3 +49,6 @@ Each version is tested for accuracy and bugs are fixed iteratively.
 ---
 
 Happy coding, and thanks for checking out my project! ✨
+git add README.md
+git commit -m "Added README file with project description"
+git push origin main
